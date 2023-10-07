@@ -1,0 +1,20 @@
+* {
+  transition: ease-in 250ms linear;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  padding: 3px;
+  margin: 10px;
+  text-align: center;
+  color: ;
+  background:linear-gradient ("#111", "#222", "#333", "#444") solid;
+}
+nav {
+  position: fixed;
+  display: flex;
+  left: 0;
+  top: 0;
+}
+
